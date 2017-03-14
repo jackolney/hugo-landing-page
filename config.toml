@@ -1,0 +1,32 @@
+languageCode = "en-us"
+baseURL = "https://jackolney.github.io/"
+title = "Aerial"
+theme = "aerial"
+
+[params]
+  name = "Jack Olney"
+  about = "Research Associate &nbsp;&bull;&nbsp; Cars &nbsp;&bull;&nbsp; Technology"
+  copyright = "Jack Olney 2017"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/OlneyJack"
+
+[[params.social]]
+  medium = "Blog"
+  icon = "book"
+  link = "https://jackolney.github.io/blog"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/jackolney"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:olney.jack@gmail.com"
