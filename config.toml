@@ -1,6 +1,6 @@
 languageCode = "en-us"
 baseURL = "https://jackolney.github.io/"
-title = "Aerial"
+title = "Jack Olney"
 theme = "aerial"
 
 [params]
